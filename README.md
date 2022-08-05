@@ -1,2 +1,1 @@
-# user_php
-registro de usuario 
+applicacion de registro de usuario en php y mysql
